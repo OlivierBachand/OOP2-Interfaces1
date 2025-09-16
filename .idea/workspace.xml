@@ -4,18 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd71c3f2-7ec2-46df-ab03-eaac3b944474" name="Changes" comment="update" />
+    <list default="true" id="dd71c3f2-7ec2-46df-ab03-eaac3b944474" name="Changes" comment="update">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/champlain/oop2assignment2/RankFirstComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/champlain/oop2assignment2/SuitFirstComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/champlain/oop2assignment2/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/champlain/oop2assignment2/Card.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/champlain/oop2assignment2/Deck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/champlain/oop2assignment2/Deck.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="32ZCrSGxPYVkjR93fIsF9wA92is" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -67,6 +81,10 @@
       <option name="presentableId" value="Default" />
       <updated>1757618905363</updated>
       <workItem from="1757618906469" duration="712000" />
+      <workItem from="1757619764870" duration="41000" />
+      <workItem from="1757619929437" duration="273000" />
+      <workItem from="1758040157194" duration="218000" />
+      <workItem from="1758048540169" duration="3011000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <option name="closed" value="true" />
