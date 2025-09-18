@@ -2,9 +2,10 @@ package com.champlain.oop2assignment2;
 
 import java.util.ArrayList;
 import java.util.Collections;
+import java.util.Iterator;
 import java.util.List;
 
-public class Deck implements CardSource {
+public class Deck implements CardSource, Iterable<Card> {
     private final List<Card> aCards = new ArrayList<>();
 
     public Deck() {
@@ -13,6 +14,10 @@ public class Deck implements CardSource {
                 this.aCards.add(new Card(currentRank, currentSuit));
             }
         }
+    }
+
+    public Iterator<Card> iterator() {
+        return this.aCards.iterator();
     }
 
     public void shuffle() {
